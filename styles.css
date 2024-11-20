@@ -1,0 +1,30 @@
+body {
+	background-color: darkcyan;
+}
+#a {
+	color: cyan;
+	margin: auto;
+	text-align: center;
+}
+#b {
+	text-align: center;
+    border: 2.5px solid white;
+    border-radius: 10%;
+    margin: 10px;
+}
+.Linkto {
+	background-color: darkcyan;	
+	width: 10%;
+	border: 2.5px solid;
+	border-color: darkcyan;
+	margin: auto;
+	padding: 5px;
+}
+.container {
+	background-color: lightcyan;
+	width: 12.5%;
+	border: 2.5px solid;
+	border-color: skyblue;
+	margin: auto;
+	padding: 10px;
+}
